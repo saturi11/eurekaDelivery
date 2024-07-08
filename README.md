@@ -28,12 +28,4 @@ GET /api/v1/deliveries - Retrieve all deliveries
 GET /api/v1/deliveries/{id} - Retrieve a delivery by ID
 PUT /api/v1/deliveries/{id} - Update a delivery
 DELETE /api/v1/deliveries/{id} - Delete a delivery
-Contributing
-We welcome contributions from the community. If you wish to contribute to the project, please fork the repository, make your changes, and submit a pull request.
 
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-```
-
-This README provides a comprehensive overview of the project, including how to get started, features, installation instructions, API endpoints, contributing guidelines, and licensing information. Adjust the repository URL and any specific versions or requirements as necessary for your project.
